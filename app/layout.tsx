@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "TemaniTumbuh",
   description: "TemaniTumbuh - Awasi tumbuh kembang si-buah hati",
+  icons:{
+    icon:"/logo gambar.svg",
+  }
 };
 
 export default function RootLayout({
